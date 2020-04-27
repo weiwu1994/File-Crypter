@@ -1,0 +1,10 @@
+A:\C++ Projects\File Crypter\File Crypter\obj\Debug\File Crypter.csprojAssemblyReference.cache
+A:\C++ Projects\File Crypter\File Crypter\obj\Debug\File_Crypter.Form1.resources
+A:\C++ Projects\File Crypter\File Crypter\obj\Debug\File_Crypter.Properties.Resources.resources
+A:\C++ Projects\File Crypter\File Crypter\obj\Debug\File Crypter.csproj.GenerateResource.cache
+A:\C++ Projects\File Crypter\File Crypter\obj\Debug\File Crypter.csproj.CoreCompileInputs.cache
+A:\C++ Projects\File Crypter\File Crypter\bin\Debug\File Crypter.exe.config
+A:\C++ Projects\File Crypter\File Crypter\bin\Debug\File Crypter.exe
+A:\C++ Projects\File Crypter\File Crypter\bin\Debug\File Crypter.pdb
+A:\C++ Projects\File Crypter\File Crypter\obj\Debug\File Crypter.exe
+A:\C++ Projects\File Crypter\File Crypter\obj\Debug\File Crypter.pdb
