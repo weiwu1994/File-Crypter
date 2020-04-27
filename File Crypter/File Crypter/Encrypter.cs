@@ -23,7 +23,6 @@ namespace File_Crypter
             aes.Padding = PaddingMode.PKCS7;
             aes.Mode = CipherMode.CBC;
             ICryptoTransform icrypt = aes.CreateEncryptor(aes.Key, aes.IV);
-            ICryptoTransform dcrypt = aes.CreateDecryptor(aes.Key, aes.IV);
 
 
             string[] files = Directory.GetFiles(input);

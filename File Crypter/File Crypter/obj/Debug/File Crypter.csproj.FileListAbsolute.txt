@@ -8,3 +8,13 @@ A:\C++ Projects\File Crypter\File Crypter\bin\Debug\File Crypter.exe
 A:\C++ Projects\File Crypter\File Crypter\bin\Debug\File Crypter.pdb
 A:\C++ Projects\File Crypter\File Crypter\obj\Debug\File Crypter.exe
 A:\C++ Projects\File Crypter\File Crypter\obj\Debug\File Crypter.pdb
+A:\GitHub\File-Crypter\File Crypter\File Crypter\bin\Debug\File Crypter.exe.config
+A:\GitHub\File-Crypter\File Crypter\File Crypter\bin\Debug\File Crypter.exe
+A:\GitHub\File-Crypter\File Crypter\File Crypter\bin\Debug\File Crypter.pdb
+A:\GitHub\File-Crypter\File Crypter\File Crypter\obj\Debug\File Crypter.csprojAssemblyReference.cache
+A:\GitHub\File-Crypter\File Crypter\File Crypter\obj\Debug\File_Crypter.Form1.resources
+A:\GitHub\File-Crypter\File Crypter\File Crypter\obj\Debug\File_Crypter.Properties.Resources.resources
+A:\GitHub\File-Crypter\File Crypter\File Crypter\obj\Debug\File Crypter.csproj.GenerateResource.cache
+A:\GitHub\File-Crypter\File Crypter\File Crypter\obj\Debug\File Crypter.csproj.CoreCompileInputs.cache
+A:\GitHub\File-Crypter\File Crypter\File Crypter\obj\Debug\File Crypter.exe
+A:\GitHub\File-Crypter\File Crypter\File Crypter\obj\Debug\File Crypter.pdb
